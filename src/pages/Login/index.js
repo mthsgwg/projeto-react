@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { Container } from '../../styles/GlobalContainer';
-
 import { Title } from './styled';
 
 export default function Login() {
