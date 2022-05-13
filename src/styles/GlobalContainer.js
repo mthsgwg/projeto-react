@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.section`
-  max-width: 360px;
+  max-width: 480px;
   background-color: #fff;
   margin: 0 auto;
   margin-top: 30px;
